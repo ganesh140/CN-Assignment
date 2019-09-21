@@ -1,0 +1,12 @@
+Request Headers: (Accessing http://www.krishnagudi.com/materials/)
+
+
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Accept-Encoding: gzip, deflate
+Accept-Language: en-IN,en-GB;q=0.9,en-US;q=0.8,en;q=0.7,kn;q=0.6
+Connection: keep-alive
+Cookie: csbwfs_show_hide_status=active; __tawkuuid=e::krishnagudi.com::JfOYm+kozntg3w2Ge/WG6S5ROgIWeH3McDttFkDlwiUadoPV4WeHDMUB+hO6aT28::2; wpfront-notification-bar-landingpage=1; TawkConnectionTime=0
+Host: www.krishnagudi.com
+Referer: http://www.krishnagudi.com/
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36
