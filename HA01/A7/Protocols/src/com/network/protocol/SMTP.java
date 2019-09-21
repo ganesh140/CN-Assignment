@@ -14,6 +14,18 @@ public class SMTP {
 	
 	public SMTP(byte[] host) {
 		this.host = host;
+		
+		/*
+		 * 	config.action_mailer.delivery_method = :smtp
+			config.action_mailer.smtp_settings = {
+			  :user_name => '83a6a0c550d2cd',
+			  :password => 'c8175f8adcf5bf',
+			  :address => 'smtp.mailtrap.io',
+			  :domain => 'smtp.mailtrap.io',
+			  :port => '2525',
+			  :authentication => :cram_md5
+			}
+		 */
 	}
 	
 	public boolean send(String message, String from, String to) throws UnknownHostException, IOException {
