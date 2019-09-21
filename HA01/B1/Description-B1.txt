@@ -19,3 +19,10 @@ Status codes achieved:
 301 - URL:http://202.62.79.36/~ks17cs025/cnpage2.html
 400 - URL:http://202.62.79.36/~ks17cs025/auth/cnpage4.html%%
 401 - URL:http://202.62.79.36/~ks17cs025/auth/cnpage4.html
+
+html web pages uploaded(B1):
+cnpage1.html, cnpage2.html, cnpage3.html and cnpage4.html
+
+Wireshark capture (B1):
+cnb1final.pcapng
+
