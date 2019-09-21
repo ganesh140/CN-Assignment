@@ -1,0 +1,4 @@
+200 - URL:http://202.62.79.36/~ks17cs025/cnpage1.html
+301 - URL:http://202.62.79.36/~ks17cs025/cnpage2.html
+400 - URL:http://202.62.79.36/~ks17cs025/auth/cnpage4.html%%
+401 - URL:http://202.62.79.36/~ks17cs025/auth/cnpage4.html
