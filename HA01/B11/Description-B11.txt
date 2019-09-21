@@ -1,0 +1,19 @@
+Objectives:
+*Access a web page using a browser that sends some cookie value with some domain attribute.
+*Reaccess this web page with the given domain and further a subdomain and verify that cookie value is sent as part of the header.
+*Access the webpage with different domain in the URL and verify that cookie is not sent in request header.
+
+Accessed web pages:
+1)URL:http://www.krishnagudi.com/
+2)URL:http://www.krishnagudi.com/materials/
+3)URL:https://www.amazon.in/
+
+The copies of request headers and the wireshark captures for accessing the webpages have been uploaded in the folder B11
+Request Headers:
+1)For http://www.krishnagudi.com/ : cnb11-1.txt
+2)For http://www.krishnagudi.com/materials/ : cnb11-2.txt
+3)For https://www.amazon.in/ : cnb11-3.txt
+
+Wireshark Captures:
+For 1) and 2):cnb11-1,2.pcapng
+For 3):cnb11-3.pcapng
