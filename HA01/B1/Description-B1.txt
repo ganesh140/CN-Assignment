@@ -1,0 +1,21 @@
+Error codes to achieve by creating webpages:
+
+1) 200 OK - The request has succeeded.
+
+2) 301 Moved Permanently - The URL of the requested resource has been changed permanently (Redirected).
+
+3) 400 Bad Request - The server could not understand the request due to invalid syntax.
+
+4) 401 Unauthorized - Although the HTTP standard specifies "unauthorized", semantically this response means "unauthenticated". That is, the client must authenticate itself to get the requested response.
+
+Webpages created (Server:202.62.79.36):
+1)cnpage1.html(URL:http://202.62.79.36/~ks17cs025/cnpage1.html) - To achieve status code 200
+2)cnpage2.html(URL:http://202.62.79.36/~ks17cs025/cnpage2.html) - To redirect to cnpage3.html and achieve status code 301
+3)cnpage3.html(URL:http://202.62.79.36/~ks17cs025/cnpage3.html) - Created to get redirected from cnpage2.html
+4)cnpage4.html(URL:URL:http://202.62.79.36/~ks17cs025/auth/cnpage4.html) - Created to make the client sign in and then access contents
+
+Status codes achieved:
+200 - URL:http://202.62.79.36/~ks17cs025/cnpage1.html
+301 - URL:http://202.62.79.36/~ks17cs025/cnpage2.html
+400 - URL:http://202.62.79.36/~ks17cs025/auth/cnpage4.html%%
+401 - URL:http://202.62.79.36/~ks17cs025/auth/cnpage4.html
