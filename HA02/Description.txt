@@ -1,0 +1,10 @@
+The folder contains two java files: jav1.java and jav2.java
+jav1.java acts as the udp client
+jav2.java acts as udp server
+(Incomplete assignment as figured out how to connect ports, send messages and nothing further)
+
+Instructions:
+1)compile and run jav2.java first
+2)compile and run run jav1.java next(different terminal or command prompt
+3)input number of rows in jav2.java and then in jav1.java
+4)inout messages in jav1.java
